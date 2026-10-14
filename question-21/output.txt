@@ -1,0 +1,6 @@
+This line is written by the PARENT process.
+This line is written by the CHILD process.
+This line is written by the PARENT process.
+This line is written by the CHILD process.
+This line is written by the PARENT process.
+This line is written by the CHILD process.
